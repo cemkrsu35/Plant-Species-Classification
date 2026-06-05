@@ -13,7 +13,7 @@ The model was trained on a highly diverse, combined dataset comprising approxima
 *   **Validation Set:** 26,528 images (15%)
 *   **Test Set:** 26,528 images (15%)
 
-*Sources combined include the Vegetable Image Dataset, Oxford 102 Flower Dataset, Ornamental Plant Images Dataset, Fruit-360, and Plant Type Datasets*[cite: 2].
+*Sources combined include the Vegetable Image Dataset, Oxford 102 Flower Dataset, Ornamental Plant Images Dataset, Fruit-360, and Plant Type Datasets*.
 
 ## Models and Architecture
 
